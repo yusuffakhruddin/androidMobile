@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Ormawa Fki">
+        <item>Badan Eksekutif Mahasiswa</item>
+        <item>Dewan Perwakilan Mahasiswa</item>
+        <item>HIMATIF</item>
+        <item>HIMAKOM</item>
+        <item>FOSTI</item>
+        <item>FINIC</item>
+        <item>KINE</item>
+    </string-array>
+</resources>
