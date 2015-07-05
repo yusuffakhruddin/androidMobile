@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+C:\xampp\htdocs\android\.metadata\.plugins\org.eclipse.jdt.core
+1730703526.index
+1284074322.index
+4261185717.index
+1245659871.index
+1863705636.index
